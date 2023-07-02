@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagdish Ghimire
 - 👀 I’m interested in coding, Programming
-- 🌱 I’m currently learning C,C#, Android Development
+- 🌱 I’m currently learning Flutter & Android Development
 - 💞️ I’m looking for Internship opportunity
 - 📫 My mail is jagdissghimire@gmail.com
 
